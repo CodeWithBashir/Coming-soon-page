@@ -41,11 +41,11 @@ header {
 .comming-soon {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 4rem;
+  gap: 5rem;
 }
 
 .content {
-  padding: 10rem 0 0 20rem;
+  padding: 10rem 0 0 10rem;
   max-width: 75rem;
   display: flex;
   flex-direction: column;
@@ -80,7 +80,7 @@ form {
 }
 
 input {
-  width: 48rem;
+  width: 60rem;
   height: 5rem;
   border-radius: 5rem;
   border: none;
